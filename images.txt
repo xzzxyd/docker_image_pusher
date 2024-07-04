@@ -5,3 +5,4 @@ teslamate/teslamate
 linuxserver/heimdall
 homeassistant/home-assistant
 linuxserver/transmission
+linuxserver/transmission
